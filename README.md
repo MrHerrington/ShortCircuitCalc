@@ -16,8 +16,6 @@ The program calculates the parameters of the power supply system (at the moment 
 ## Documentation links
 Link to documentation in HTML format on Github Pages:  
 https://mrherrington.github.io/shortcircuitcalc_docs/  
-Link to documentation in PDF format on Google Drive:  
-https://drive.google.com/file/d/1CtjVepQP6vxvO2pVG2evwqDeqEgbVi7Q/view?usp=drive_link
 
 ## Database schema
 <details>
